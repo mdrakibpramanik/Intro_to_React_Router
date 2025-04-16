@@ -1,0 +1,14 @@
+
+.root-main {
+    display: flex;
+    gap: 165px;
+}
+nav a.active {
+    text-decoration: underline;
+
+}
+
+
+
+
+
